@@ -1,5 +1,9 @@
 # FULL_ADDER_SUBTRACTOR
 
+# Developed by: RAMKUMAR G
+# RegisterNumber: 212223220084
+*/
+
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
@@ -41,6 +45,7 @@ FULL ADDER
 ![316380387-d0433287-bca1-4a42-941b-7ebe73f982fa](https://github.com/RamkumarGunasekaran/FULL_ADDER_SUBTRACTOR/assets/144870820/d2ff3833-f609-4054-af8b-d834a088a135)
 
 FULL SUBRACTOR
+
 ![316380435-89454d27-9645-4632-a76b-83fd89b93be1](https://github.com/RamkumarGunasekaran/FULL_ADDER_SUBTRACTOR/assets/144870820/70d90a4d-3b7e-4fd9-9830-4d6cf3fb29c2)
 
 **Procedure**
@@ -49,8 +54,7 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 ```
 module EX04(a,b,c,sum,carry,BO,DIFF);
 input a,b,c;
